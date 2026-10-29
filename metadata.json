@@ -1,0 +1,6 @@
+{
+  "name": "REFORM — Facial Aesthetics & Self-Improvement",
+  "description": "Explore facial aesthetics through practical, evidence-informed guidance on skin, hair, eyes, facial structure, grooming, and personal presentation by Faheem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
